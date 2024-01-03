@@ -1,12 +1,15 @@
 ### Olá 👋, me chamo Brayan Cordeiro.
 
-<a href="https://github.com/yzp-99/">
+<a href="https://github.com/BrayanCordeiro">
   <img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://t.me/joinchat/AAAAAFhPQ4We6zukAHmHrQ">
-  <img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/telegram.svg" />
+<a href="https://api.whatsapp.com/send?phone=5581982293431&text=Ol%C3%A1%2C%20Brayan!">
+  <img align="left" alt="Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@10.4.0/icons/whatsapp.svg" />
 </a>
-<a href="https://mail.google.com/ ">
+<a href="https://t.me/+5581982293431">
+  <img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@10.4.0/icons/telegram.svg" />
+</a>
+<a href="mailto:linsbvl73@gmail.com ">
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/gmail.svg" />
 </a>
 
