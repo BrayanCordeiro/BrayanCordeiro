@@ -49,6 +49,7 @@
 **Tecnologias em aprendizado**
 
 <code><img height="20" alt="MongoDb" src="https://cdn.jsdelivr.net/npm/simple-icons@10.4.0/icons/mongodb.svg"></code>
+<code><img height="20" alt="Docker" src="https://cdn.jsdelivr.net/npm/simple-icons@10.4.0/icons/docker.svg"></code>
 <code><img height="20" alt="Jquerry" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/jquery.svg"></code>
 <code><img height="20" alt="Vuejs" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"></code>
 <code><img height="20" alt="React" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/react.svg"></code>
